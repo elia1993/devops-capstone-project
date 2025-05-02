@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Template for user stories
+about: Template for writing user stories
 title: "[User Story]"
 labels: enhancement
 assignees: ''
@@ -15,7 +15,7 @@ assignees: ''
 * [document what you know]      
 
 ### Acceptance Criteria     
-    gherkin  
-    Given [some context]  
-    When [certain action is taken]  
-    Then [the outcome of action is observed]
+```gherkin
+Given [some context]  
+When [certain action is taken]  
+Then [the outcome of action is observed]
